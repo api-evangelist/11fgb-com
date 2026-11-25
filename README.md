@@ -66,7 +66,7 @@
 
 Eleven Friends of Grumpy Brush Cleaning provides professional house cleaning services across Austin and Central Texas. Customers can book recurring, deep, apartment, office, Airbnb, and move‑in or move‑out cleaning. The company emphasizes reliable, quiet service with flexible scheduling and a focus on thoroughness, serving numerous Texas cities including Austin, Round Rock, and Georgetown. With a team of experienced cleaners, Grumpy Brush ensures each job meets high standards, offering transparent pricing and easy online quotes.
 
-**Areas:** Cleaning · Home-Services · Texas · Austin · Residential
+**Areas:** Cleaning · Home Services · Texas · Austin · Residential
 
 ## Eleven Friends of Grumpy Brush Cleaning on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for Eleven Friends of Grumpy Brush Cleaning is published on 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [11fgb-com-mcp.yml](https://apis.io/servers/11fgb-com/11fgb-com-mcp-yml/)
 
 #### JSON Schema (1)
 
@@ -103,14 +109,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [11Fgb Com Authentication](https://apis.io/security/11fgb-com/11fgb-com-authentication/)
-- [11Fgb Com Domain Security](https://apis.io/security/11fgb-com/11fgb-com-domain-security/)
+- [Eleven Friends of Grumpy Brush Cleaning Authentication](https://apis.io/security/11fgb-com/11fgb-com-authentication/)
+- [Eleven Friends of Grumpy Brush Cleaning Domain Security](https://apis.io/security/11fgb-com/11fgb-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [11Fgb Com Scopes](https://apis.io/scopes/11fgb-com/11fgb-com-scopes/)
+- [Eleven Friends of Grumpy Brush Cleaning Scopes](https://apis.io/scopes/11fgb-com/11fgb-com-scopes/)
 
 ## Where to find this API
 
@@ -123,18 +129,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 34.9** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 23.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
-| Contract quality | 42.6 |
-| Contract governance | 79.1 |
+| Discoverability | 63.3 |
+| Contract quality | 17.8 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 14.3 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 16.1** — agent-aware
+**Agent readiness 18.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -149,7 +155,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -159,8 +165,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/11fgb-com/](https://apis.io/providers/11fgb-com/).
 
